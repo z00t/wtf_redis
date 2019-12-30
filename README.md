@@ -1,5 +1,5 @@
 # wtf_redis
-Redis client for FiveM
+Redis client for FiveM/RedM (RedM changes by z00t)
 
 ## Goals
 
